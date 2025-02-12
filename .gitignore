@@ -1,0 +1,35 @@
+```
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+*.venv
+Pipfile.lock
+
+# Django-related files
+*.log
+db.sqlite3
+db.sqlite3-journal
+/media/
+staticfiles/
+
+# Environment variables
+.env
+*.env
+
+# VS Code / JetBrains / other IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS system files
+.DS_Store
+
+# Render-specific
+build/
+```
